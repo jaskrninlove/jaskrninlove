@@ -1,56 +1,37 @@
-# jaskrninlove
+# Hi, I'm Jaskranin 👋
 
-```
-   ___      ___     ___     ___     ___     ___     ___ 
-  / _ \    / __|   / _ \   / __|   |_ _|   |_ _|   | _ \
- | (_) |   \__ \  | (_) |  \__ \    | |     | |    |   /
-  \___/    |___/   \___/   |___/   |___|   |___|   |_|_\
-```
+I'm a passionate developer dedicated to building elegant, performant solutions through clean code and innovative problem-solving. With a focus on full-stack development, system architecture, and open-source contribution, I thrive on creating meaningful technology that makes an impact. I believe in continuous learning, collaborative development, and the philosophy that great code is poetry written in logic. Always open to connecting with fellow developers and exploring new possibilities in the tech space.
 
 ---
 
-## 👋 Welcome
+## 🔗 Connect With Me
 
-Passionate developer crafting elegant solutions through clean code and innovative thinking.
+<div align="center">
+  
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
-### 🛠 Focus Areas
-- Full-stack development
-- System architecture
-- Open-source contribution
-
-### 📊 By the Numbers
-- **Repositories**: Curated collection of projects
-- **Contributions**: Continuous growth mindset
-- **Collaboration**: Always open to meaningful connections
-
----
-
-## 🚀 Projects
-
-*Coming soon — where ideas become code*
-
----
-
-## 📚 Latest Explorations
-- Architecture patterns & best practices
-- Performance optimization
-- Developer experience
-
----
-
-## 🤝 Let's Connect
-
-- **Portfolio**: [Your site here]
-- **Email**: [contact@example.com]
-- **Twitter**: [@your_handle]
-- **LinkedIn**: [your-profile]
+</div>
 
 ---
 
 <div align="center">
-
-**"Code is poetry written in logic."**
-
-*Building the future, one commit at a time.*
-
+  <sub>Building the future, one commit at a time ✨</sub>
 </div>
