@@ -29,11 +29,11 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/jaskrninlove" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="48" />
+  <img src="[https://skillicons.dev/icons?i=instagram" width="4](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="48" style="background:#2CA5E0;padding:8px;border-radius:10px;)8" />
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/imceobiitxh" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/48/000000/telegram-app.png" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" style="background:#2CA5E0;padding:8px;border-radius:10px;" />
 </a>
 
 </div>
