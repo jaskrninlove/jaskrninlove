@@ -33,7 +33,7 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 </a>
 &nbsp;&nbsp;
 <a href="https://t.me/imceobiitxh" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" style="background:#2CA5E0;padding:8px;border-radius:10px;" />
+  <img src="https://img.icons8.com/ios-filled/48/000000/telegram-app.png" width="48" />
 </a>
 
 </div>
