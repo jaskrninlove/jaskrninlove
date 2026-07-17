@@ -7,7 +7,7 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 ## 🛠 What I Build
 
 - 🌐 **Frontend Development** — Interactive, responsive websites with clean UI and smooth UX. 👾
-- 🤖 **Telegram Bots** — Elegant, feature-rich bots built with Pyrogram & Telethon under [@elysiiannetwork](https://t.me/xenoraorg) 🕸️
+- 🤖 **Telegram Bots** — Elegant, feature-rich bots built with Pyrogram & Telethon under [@xenora](https://t.me/xenoraorg) 🕸️
 - 🔓 **Open Source** — Contributing tools and projects that developers can build upon freely. 🪼
 
 ---
