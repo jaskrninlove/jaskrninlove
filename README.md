@@ -12,6 +12,16 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 
 ---
 
+## 🟩 Contribution
+
+<div align="center">
+
+<img src="./pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%" />
+
+</div>
+
+---
+
 ## 🔗 Connect With Me
 
 <div align="center">
