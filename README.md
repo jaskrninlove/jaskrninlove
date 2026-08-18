@@ -1,4 +1,4 @@
-# Hi, I'm Jass 🕸️
+# Hi, I'm Jass 자스
 
 I'm a passionate developer dedicated to building elegant, performant solutions through clean code and innovative problem-solving. With a focus on frontend development, Telegram bot building, and open-source contribution, I thrive on creating meaningful technology that makes an impact. I believe in continuous learning, collaborative development, and the philosophy that great code is poetry written in logic. Always open to connecting with fellow developers and exploring new possibilities in the tech space. 🪶
 
@@ -6,13 +6,13 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 
 ## 🛠 What I Build
 
-- ☘ **Frontend Development** — Interactive, responsive websites with clean UI and smooth UX. ❁
-- ☘ **Telegram Bots** — Elegant, feature-rich bots built with Pyrogram & Telethon under [@xenora](https://t.me/xenoraorg) ❁
-- ☘ **Open Source** — Contributing tools and projects that developers can build upon freely. ❁
+- ☘ **Frontend Development** — Interactive, responsive websites with clean UI and smooth UX.
+- ☘ **Telegram Bots** — Elegant, feature-rich bots built with Pyrogram & Telethon under [@xenora](https://t.me/xenoraorg)
+- ☘ **Open Source** — Contributing tools and projects that developers can build upon freely.
 
 ---
 
-## 🦄 Contribution
+## 🕸️ Contribution
 
 <div align="center">
 
@@ -51,5 +51,5 @@ I'm a passionate developer dedicated to building elegant, performant solutions t
 ---
 
 <div align="center">
-  <sub>Building the future, one commit at a time ✨</sub>
+  <sub>Building the future, one commit at a time 𐙚⋆.˚</sub>
 </div>
